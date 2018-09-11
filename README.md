@@ -1,8 +1,8 @@
 ## Text Emotion Classification
 
-In this project, we try to the classify the text according to the emotion that it represents. This is multi class sentiment analysis problem. We combine three different datasets, namely [equity evaluation corpus](https://github.com/abishekarun/Text-Emotion-Classification/blob/master/Equity-Evaluation-Corpus.csv),[text emotion](https://github.com/abishekarun/Text-Emotion-Classification/blob/master/text_emotion.csv) and [cleaned tweets](https://github.com/abishekarun/Text-Emotion-Classification/blob/master/tweets_clean.txt) to create the large dataset used in this problem.
+In this project, we try to the classify the text according to the emotion that it represents. This is multi class sentiment analysis problem. We combine three different datasets, namely [equity evaluation corpus](https://raw.githubusercontent.com/abishekarun/Text-Emotion-Classification/master/Equity-Evaluation-Corpus.csv), [text emotion](https://raw.githubusercontent.com/abishekarun/Text-Emotion-Classification/master/text_emotion.csv) and [cleaned tweets](https://raw.githubusercontent.com/abishekarun/Text-Emotion-Classification/master/tweets_clean.txt) to create the large dataset used in this problem.
 
-The Jupyter Notebook file is [here](https://github.com/abishekarun/Text-Emotion-Classification/blob/master/emotion_classification.ipynb.ipynb) for this project.
+The Jupyter Notebook file is [here](https://github.com/abishekarun/Text-Emotion-Classification/blob/master/emotion_classification.ipynb) for this project.
 
 The resources that helped me are:
 
